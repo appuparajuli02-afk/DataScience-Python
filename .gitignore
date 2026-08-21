@@ -8,3 +8,6 @@ venv/
 #gitignore-
 
 pandas/dataset
+
+diary.txt
+file.txt
